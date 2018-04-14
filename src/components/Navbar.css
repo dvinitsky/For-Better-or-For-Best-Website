@@ -1,0 +1,6 @@
+.container {
+    display: inline-flex;
+    margin: 10px;
+    float: right;
+    border: solid 2px black;
+}

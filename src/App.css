@@ -4,9 +4,27 @@ html,
   height: 100%;
 }
 
-.App {
+
+
+.imgContainer {
   height: 100%;
   background-image: url('./stock-pic.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
+}
+
+.mainHeader {
+  color: white;
+  margin: 25% auto 50% auto;
+  width: 75%;
+  font-size: 5vw;
+  text-align: center;
+  font-family: Arial, monospace;
+  font-style: italic;
+}
+
+.subHeader {
+  color: #d6ada7;
+  font-size: 40px;
+  position: relative;
 }

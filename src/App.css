@@ -1,0 +1,12 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  background-image: url('./stock-pic.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}

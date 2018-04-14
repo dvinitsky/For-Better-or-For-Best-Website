@@ -6,8 +6,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      
-    
+      {/* change this to a video tag */}
+        <img />
       </div>
     );
   }

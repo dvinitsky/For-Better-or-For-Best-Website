@@ -5,17 +5,16 @@ html,
 }
 
 
-
-.imgContainer {
+.App {
   height: 100%;
   background-image: url('./stock-pic.jpg');
-  background-size: 100% auto;
+  background-size: 100% 65%;
   background-repeat: no-repeat;
 }
 
 .mainHeader {
   color: white;
-  margin: 25% auto 50% auto;
+  margin: 10% auto 50% auto;
   width: 75%;
   font-size: 5vw;
   text-align: center;
@@ -27,4 +26,7 @@ html,
   color: #d6ada7;
   font-size: 40px;
   position: relative;
+  text-align: center;
+  margin-top: -220px;
+  border: solid 2px black;
 }

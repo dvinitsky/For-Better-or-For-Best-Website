@@ -1,13 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {MenuOption} from './MenuOption';
 import './Navbar.css';
 
 
-export class Navbar extends Component {
-    constructor(props){
-        super(props);
-    }
-
+export class Navbar extends React.Component {
+   
 
     render() {
         let key = -1;
